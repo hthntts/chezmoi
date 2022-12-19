@@ -34,3 +34,7 @@
     type = "file"
     url = "https://raw.githubusercontent.com/hthntts/tmux/master/.tmux.conf"
     refreshPeriod = "168h"
+[".doom.d"]
+    type = "git-repo"
+    url = "https://github.com/hthntts/doomemacs.git"
+    refreshPeriod = "168h"
