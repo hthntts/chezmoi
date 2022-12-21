@@ -58,3 +58,7 @@
     type = "file"
     url = "https://gist.githubusercontent.com/hthntts/95e0bd033b190efea0266bf19a46267e/raw/c0ea5b058aeb5f8c3183fda363a5bca1240500aa/karabiner"
     refreshPeriod = "168h"
+[".config/kitty"]
+    type = "git-repo"
+    url = "https://github.com/hthntts/kitty.git"
+    refreshPeriod = "168h"
